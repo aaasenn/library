@@ -1,6 +1,6 @@
 {
   "name": "lib-dojo-amn",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "",
   "scripts": {
     "build": "rollup -c"
