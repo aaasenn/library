@@ -8,7 +8,7 @@ export interface IButton {
 
 const Button = styled.button<IButton>`
   width:  300px;
-  height:  100px};
+  height:  100px;
   border: none;
   border-radius: 2px;
   margin: 20px;
