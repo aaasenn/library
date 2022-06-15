@@ -29,7 +29,7 @@ export default [
         typescript({ tsconfig: "./tsconfig.json" }),
         terser(),
       ],
-      external: ["react", "react-dom", "styled-component"]
+      external: ["react", "react-dom", "styled-component", "@material-ui/core"]
     },
     {
       input: "dist/esm/types/index.d.ts",
